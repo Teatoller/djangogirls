@@ -1,0 +1,1 @@
+A blog app with a database to store posts built with Django
