@@ -6,4 +6,6 @@ h1 a, h2 a {
 /* body padding */
 body {
     padding-left: 15px;
+    /* font-family: 'Amiri'; */
+    font-family: 'Cormorant Garamond';
 }
