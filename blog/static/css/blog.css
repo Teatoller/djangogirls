@@ -1,17 +1,8 @@
-/* Font color */
-h1 a, h2 a {
-    /* color: #c25100; */
-    color: #4169e1;
-}
-/* body padding */
 body {
     padding-left: 15px;
-    /* font-family: 'Amiri'; */
-    font-family: 'Cormorant Garamond';
 }
 .page-header {
-    /* background-color: #C25100; */
-    background-color: #4169e1;
+    background-color: #C25100;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -27,7 +18,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Cormorant Garamond', cursive;
+    font-family: 'Lobster', cursive;
 }
 
 .date {
